@@ -149,6 +149,7 @@ export default {
   //销毁阶段
   destroyed(){
        console.log("列表销毁");
+       console.log('这是一个测试');
   }
 
 };
