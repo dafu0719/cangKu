@@ -88,7 +88,7 @@ export default {
     siScroll(e){
           // console.log(e);
           let isRes = document.documentElement.scrollTop 
-          
+           console.log('111111111111111111');
     },
     //上拉刷新
     async onLoad() {
